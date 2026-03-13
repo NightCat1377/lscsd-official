@@ -1,7 +1,8 @@
 {
-  "name": "@figma/my-make-file",
+  "name": "lscsd-official",
   "private": true,
   "version": "0.0.1",
+  "homepage": "https://nightcat1377.github.io/lscsd-official"
   "type": "module",
   "scripts": {
     "build": "vite build",
